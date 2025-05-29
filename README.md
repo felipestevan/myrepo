@@ -1,4 +1,4 @@
-# my Project Title
+# my project title
 
 follow
 
